@@ -1,0 +1,4 @@
+D:\SoftUni\Level #2\High-Quality-Code-master\Unit-Tests-Homework\CustomLinkedList\bin\Debug\CustomLinkedList.dll.config
+D:\SoftUni\Level #2\High-Quality-Code-master\Unit-Tests-Homework\CustomLinkedList\obj\Debug\CustomLinkedList.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High-Quality-Code-master\Unit-Tests-Homework\CustomLinkedList\obj\Debug\CustomLinkedList.dll
+D:\SoftUni\Level #2\High-Quality-Code-master\Unit-Tests-Homework\CustomLinkedList\obj\Debug\CustomLinkedList.pdb

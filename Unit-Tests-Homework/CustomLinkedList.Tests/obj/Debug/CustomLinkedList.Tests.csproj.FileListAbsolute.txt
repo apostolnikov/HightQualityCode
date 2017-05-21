@@ -1,0 +1,1 @@
+D:\SoftUni\Level #2\High-Quality-Code-master\Unit-Tests-Homework\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
